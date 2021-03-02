@@ -2,15 +2,9 @@
 
 ### About Me
 
-- Passionate about the development of web projects, I naturally turned to the career of a web developer.
-
 - Currently in training as a WEB developer at the Wild Code School in Lille, I am looking for a company that could welcome me as part of an agreed internship of at least 4 months from February to March.
 
 - The training gravitated mainly on the JavaScript stack, notably ReactJS for the front-end side and NodeJS with Express for the backend with the use of MySQL. Proficiency in collaboration software such as Git, GitHub, Slack.
-
-- Today I want to deepen my skills and develop new ones, the position of web developer in HTML5, CSS3, ReactJS and NodeJS technologies perfectly matches my objectives and that is why I allow myself to send you my application.
-
-- Autonomous, rigorous and creative, I am very invested in my work and particularly appreciate teamwork.
 
 ### Technologies
 
