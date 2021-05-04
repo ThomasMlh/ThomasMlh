@@ -12,7 +12,7 @@
 - Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF)
 - Frontend : ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=FFFFFF), ![Angular.js](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&logo=angular&logoColor=white)
 - CSS FrameWork : ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=FFFFFF)
-- Database : ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)
+- Database : ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF), ![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?style=flat&logo=mongodb&logoColor=E8E7D5)
 - CMS : ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=strapi&logoColor=FFFFFF)
 
 ### Tools I use
